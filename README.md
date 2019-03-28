@@ -14,3 +14,7 @@
 
 [8、多线程](https://github.com/ZhangYizhe/iOS_technology_collation/blob/master/iOS_technology_collation.md#多线程) 
 
+### 其它
+
+[1、排序](https://github.com/ZhangYizhe/iOS_technology_collation/blob/master/Sorting.md)
+
